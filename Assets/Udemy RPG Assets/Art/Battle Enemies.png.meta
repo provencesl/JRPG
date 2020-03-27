@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 988d560df8d322a468c97243cbfd76e8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_0
+    21300002: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_1
+    21300004: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_2
+    21300006: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_3
+    21300008: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_4
+    21300010: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_5
+    21300012: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_6
+    21300014: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_7
+    21300016: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_8
+    21300018: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_9
+  externalObjects: {}
+  serializedVersion: 6
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 192
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f07c822436846f4dbffb185d11d6276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 192
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852775177e9040d4eb9f1686ddeef8d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 146
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4075635582a1e364bb1e80e8dc9e913a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 136
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55defdf4b81771940972305b473abbbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 94
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf827ff8876ec24baf8ff61d34930c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 100
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85782a1076777af4ca76b2efcbe99b35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 46
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0afec906a7c0204ebf873be7a78d22d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 46
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d238c6609211de4eaf45ae0f41d26cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 13
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254f2d2046a138b4989543fa88d97a50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 12
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c43edec89254845bb322fef8d90e37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c9562d249a299e844bc0ab7d4101464c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
